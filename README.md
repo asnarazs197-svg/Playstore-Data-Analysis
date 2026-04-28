@@ -21,7 +21,7 @@ The goal of this project is to perform data analysis and extract meaningful insi
 ## 📊 Dataset Information
 
 * Dataset Name: Google Play Store Apps
-* Source: Kaggle
+* Source: [Kaggle](https://www.kaggle.com/datasets/whenamancodes/play-store-apps?utm_source=chatgpt.com "Play Store Apps")
 * Total Apps: ~10,000+
 * Format: CSV files
 
@@ -104,13 +104,6 @@ These attributes provide a complete overview of app performance and user engagem
 * `analysis.ipynb` – Data analysis notebook
 * `README.md` – Project documentation
 
----
-
-## 👨‍💻 Author
-
-* Name: [Your Name]
-* Class: [Your Class]
-* Institution: [Your School/College]
 
 ---
 
@@ -122,4 +115,3 @@ Future improvements can include machine learning models to predict app success a
 
 ---
 
-[1]: https://www.kaggle.com/datasets/whenamancodes/play-store-apps?utm_source=chatgpt.com "Play Store Apps"
